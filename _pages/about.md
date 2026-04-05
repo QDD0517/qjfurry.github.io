@@ -1,13 +1,5 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# 你好我是秋节！
+[哔哩哔哩](https://space.bilibili.com/3493134124189761?spm_id_from=333.788.0.0)
+[兽频道](https://fursuit.tv/@qiujie)
+[兽频道](https://fursuit.tv/@qiujie)
+QQ: 3400248712 邮箱：3400248712@qq.com
